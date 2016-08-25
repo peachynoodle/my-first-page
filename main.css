@@ -1,0 +1,44 @@
+body {
+    background-color: #99b3ff;
+    max-width: 850;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 17px;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    padding: 5px;
+    border: outset;
+   
+}
+
+p {
+    font-family: "Georgia";
+    font-style: italic;
+    font-size: 20px;
+    text-align: left;
+    padding: 10px;
+}
+
+img { 
+    max-width: 100%;
+}
+a:link {
+    color: #33cc33;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #0066cc;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    color: #ffffff;
+}
